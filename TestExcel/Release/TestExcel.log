@@ -1,12 +1,5 @@
-﻿  Converter.cpp
-  DataСollectionFile.cpp
-  MyForm.cpp
-C:\Users\Yaroslav\source\repos\TestExcel\TestExcel\Transfer.h(17,21): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Yaroslav\source\repos\TestExcel\TestExcel\Transfer.h(19,22): warning C4018: <: несоответствие типов со знаком и без знака
-C:\Users\Yaroslav\source\repos\TestExcel\TestExcel\MyForm.h(381,23): warning C4018: <: несоответствие типов со знаком и без знака
-  CSVFileGen.cpp
-C:\Users\Yaroslav\source\repos\TestExcel\TestExcel\CSVFileGen.cpp(45,21): warning C4018: <: несоответствие типов со знаком и без знака
-  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
-  Создание кода...
+﻿  CSVFileGen.cpp
+C:\Users\Yaroslav\source\repos\TestExcel\TestExcel\CSVFileGen.cpp(39,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Yaroslav\source\repos\TestExcel\TestExcel\CSVFileGen.cpp(43,22): warning C4018: <: несоответствие типов со знаком и без знака
   Converter.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
   TestExcel.vcxproj -> C:\Users\Yaroslav\source\repos\TestExcel\Release\TestExcel.exe

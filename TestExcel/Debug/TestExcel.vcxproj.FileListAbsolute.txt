@@ -1,1 +1,6 @@
 C:\Users\Yaroslav\source\repos\TestExcel\TestExcel\Debug\TestExcel.vcxproj.AssemblyReference.cache
+C:\Users\Yaroslav\source\repos\TestExcel\Debug\TestExcel.exe.config
+C:\Users\Yaroslav\source\repos\TestExcel\TestExcel\Debug\TestExcel.exe.config
+C:\Users\Yaroslav\source\repos\TestExcel\TestExcel\Debug\TestExcel.MyForm.resources
+C:\Users\Yaroslav\source\repos\TestExcel\TestExcel\Debug\TestExcel.vcxproj.GenerateResource.cache
+C:\Users\Yaroslav\source\repos\TestExcel\TestExcel\Debug\TestExcel.vcxproj.CopyComplete

@@ -1,3 +1,6 @@
-﻿  MyForm.cpp
-  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+﻿  CSVFileGen.cpp
+C:\Users\Yaroslav\source\repos\TestExcel\TestExcel\CSVFileGen.cpp(32,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Yaroslav\source\repos\TestExcel\TestExcel\CSVFileGen.cpp(58,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\Yaroslav\source\repos\TestExcel\TestExcel\CSVFileGen.cpp(63,22): warning C4018: <: несоответствие типов со знаком и без знака
+  Converter.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
   TestExcel.vcxproj -> C:\Users\Yaroslav\source\repos\TestExcel\Debug\TestExcel.exe
