@@ -1,0 +1,5 @@
+C:\Users\Yaroslav\source\repos\TestExcel\Release\TestExcel.exe.config
+C:\Users\Yaroslav\source\repos\TestExcel\TestExcel\Release\TestExcel.exe.config
+C:\Users\Yaroslav\source\repos\TestExcel\TestExcel\Release\TestExcel.MyForm.resources
+C:\Users\Yaroslav\source\repos\TestExcel\TestExcel\Release\TestExcel.vcxproj.GenerateResource.cache
+C:\Users\Yaroslav\source\repos\TestExcel\TestExcel\Release\TestExcel.vcxproj.CopyComplete
