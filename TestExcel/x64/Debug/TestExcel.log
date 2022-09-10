@@ -1,3 +1,4 @@
-﻿  MyForm.cpp
+﻿  CSVFileGen.cpp
+C:\Users\Yaroslav\source\repos\TestExcel\TestExcel\CSVFileGen.cpp(80): warning C4715: FileGeneration::CheckEmptyFile: значение возвращается не при всех путях выполнения
   Converter.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
   TestExcel.vcxproj -> C:\Users\Yaroslav\source\repos\TestExcel\x64\Debug\TestExcel.exe

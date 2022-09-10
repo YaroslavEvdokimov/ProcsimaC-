@@ -15,6 +15,7 @@ public:
 	std::string GetOutFile();
 	void CopyDataInFile(std::string& path_text_file);
 	void AddDataInFile();
+	bool CheckEmptyFile(std::string& path);
 
 private:
 	std::ofstream File;

@@ -52,12 +52,11 @@ void FileGeneration::AddDataInFile() {
 
 	std::ofstream EndFile(pathOut, std::ios::binary | std::ios::app);
 	if (EndFile.is_open()) {
-		if (!EndFile.eof()){
+		if (CheckEmptyFile(pathOut) == true){
 			for (int i = 1; i < BufferStr.size(); i++) {
 			    EndFile << BufferStr[i] << std::endl;
 	        }
-		}
-		else {
+		}else {
 			for (int i = 0; i < BufferStr.size(); i++) {
 				EndFile << BufferStr[i] << std::endl;
 			}
@@ -68,4 +67,14 @@ void FileGeneration::AddDataInFile() {
 
 std::string FileGeneration::GetOutFile() {
 	return pathOut;
+}
+
+bool FileGeneration::CheckEmptyFile(std::string &path) {
+	std::fstream File(path);
+	if (File.is_open()) {
+		if (File.peek() == std::ifstream::traits_type::eof()) {
+			return 0;
+		}else 
+			return 1;
+	}
 }
