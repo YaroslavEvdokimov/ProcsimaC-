@@ -42,9 +42,7 @@ void FileGeneration::CopyDataInFile(std::string& path_text_file) {
 					BufferStr.push_back(data_str);
 				}
 				else flagNULL = false;
-				
 			}
-			    
 		}
 	}
 	TextFile.close();
